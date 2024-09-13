@@ -1,6 +1,6 @@
 # AI-Content-Creation-App
 Overview
-The AI Content Creation App is a mobile application designed to generate creative writing, music, and artwork using artificial intelligence. This app is tailored for both kids and adults, offering an engaging platform for creativity and expression. Users can enter prompts, select genres, and watch AI-generated content come to life in real-time.
+The AI Content Creation App is a mobile application that uses artificial intelligence to generate creative writing, music, and artwork. This app is tailored for kids and adults, offering an engaging platform for creativity and expression. Users can enter prompts, select genres, and watch AI-generated content come to life in real time.
 
 Key Features
 Creative Writing Generation: Input keywords or themes, and the app generates original stories, poems, or scripts using AI.
